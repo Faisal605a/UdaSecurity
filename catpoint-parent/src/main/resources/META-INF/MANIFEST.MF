@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Main-Class: com.udacity.catpoint.application.CatpointApp
+Class-Path: aws-xml-protocol-2.18.28.jar netty-resolver-4.1.77.Final.jar
+  jackson-annotations-2.13.4.jar httpcore-4.4.13.jar netty-transport-nat
+ ive-unix-common-4.1.77.Final.jar regions-2.18.28.jar netty-nio-client-2
+ .18.28.jar httpclient-4.5.13.jar annotations-2.18.28.jar cdk-region-inf
+ o-1.181.1.jar reactive-streams-1.0.3.jar netty-common-4.1.77.Final.jar 
+ rekognition-2.18.28.jar miglayout-3.7.4.jar jsii-runtime-1.72.0.jar net
+ ty-transport-classes-epoll-4.1.77.Final.jar profiles-2.18.28.jar netty-
+ buffer-4.1.77.Final.jar SecurityService-1.0-SNAPSHOT.jar sdk-core-2.18.
+ 28.jar commons-codec-1.11.jar javax.annotation-api-1.3.2.jar eventstrea
+ m-1.0.1.jar http-client-spi-2.18.28.jar protocol-core-2.18.28.jar core-
+ 1.181.1.jar jackson-datatype-jsr310-2.13.4.jar netty-handler-4.1.77.Fin
+ al.jar auth-2.18.28.jar netty-codec-http2-4.1.77.Final.jar jackson-data
+ bind-2.13.4.2.jar aws-query-protocol-2.18.28.jar guava-19.0-rc1.jar apa
+ che-client-2.18.28.jar cdk-cloud-assembly-schema-1.181.1.jar constructs
+ -3.4.184.jar s3-2.18.28.jar arns-2.18.28.jar third-party-jackson-core-2
+ .18.28.jar netty-transport-4.1.77.Final.jar utils-2.18.28.jar annotatio
+ ns-19.0.0.jar slf4j-api-1.7.36.jar netty-codec-4.1.77.Final.jar gson-2.
+ 10.jar metrics-spi-2.18.28.jar aws-json-protocol-2.18.28.jar endpoints-
+ spi-2.18.28.jar aws-core-2.18.28.jar netty-codec-http-4.1.77.Final.jar 
+ commons-logging-1.2.jar json-utils-2.18.28.jar cdk-cx-api-1.181.1.jar s
+ lf4j-api-1.7.30.jar jackson-core-2.13.4.jar
+
